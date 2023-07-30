@@ -1,5 +1,5 @@
 # odin-recipes
 
-## Basic recipe website
+Basic recipe website
 
 This is a basic project exercise from The Odin Project
